@@ -1,3 +1,13 @@
+postponed for now
+
+2Do:
+-replace parsec with sunshinesvc, preset software-encoding for AMD-Support
+-use lang settings of host
+-virtual screen 1080p
+-audio 5.1?
+-userinput instead of setting vars in script
+-make exe for easier execution
+
 # Easy-GPU-PV
 A work-in-progress project dedicated to making GPU Paravirtualization on Windows Hyper-V easier!  
 
